@@ -63,7 +63,7 @@ Ardından terminalde çıkan QR kodu ile **Expo Go** uygulamasından (Android/iO
 Teslim için repo bağlantınızı buraya ekleyin:
 
 ```
-https://github.com/KULLANICI_ADINIZ/React-Native-Odev
+https://github.com/AAPlus5/React-Native-Odev
 ```
 
 ## Ekran görüntüleri (teslim için)
