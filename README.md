@@ -64,13 +64,12 @@ Ardından terminalde çıkan QR kodu ile **Expo Go** uygulamasından (Android/iO
 
 ## GitHub repository
 
-Teslim için repo bağlantınızı buraya ekleyin:
 
 ```
 https://github.com/AAPlus5/React-Native-Odev
 ```
 
-## Ekran görüntüleri (teslim için)
+
 
 Word belgesine ve ALMS’e eklemeniz gereken görseller:
 
@@ -81,17 +80,7 @@ Word belgesine ve ALMS’e eklemeniz gereken görseller:
 5. Orijinal Yemeksepeti restoran listesi (referans)  
 6. Orijinal Yemeksepeti menü ekranı (referans)
 
-Görselleri `docs/screenshots/` klasörüne koyup bu README’de linkleyebilirsiniz.
 
-## Tanıtım videosu
 
-Kısa ekran kaydında şunlar gösterilmeli:
 
-- Uygulamanın açılması  
-- Restoran araması  
-- Bir restorana girip menüden ürün ekleme  
-- Geri dönüş ve başka restoran
 
-## Notlar
-
-- Bu depo ödevin **kaynak kodu** kısmıdır; Word çıktısı, ALMS yüklemesi ve video öğrenci tarafından tamamlanmalıdır.
