@@ -59,6 +59,8 @@ Ardından terminalde çıkan QR kodu ile **Expo Go** uygulamasından (Android/iO
 
 2. **Menü** — <img width="945" height="2048" alt="WhatsApp Image 2026-06-02 at 20 50 17 (1)" src="https://github.com/user-attachments/assets/87004052-d38f-4fb6-8e9a-595aa683ec1b" />
 
+3. **Gerçek yemeksepeti"" - <img width="945" height="2048" alt="WhatsApp Image 2026-06-02 at 21 16 45" src="https://github.com/user-attachments/assets/e39517fc-8788-41c5-9c42-d53d0badec5d" />
+
 
 ## GitHub repository
 
