@@ -55,8 +55,10 @@ Ardından terminalde çıkan QR kodu ile **Expo Go** uygulamasından (Android/iO
 
 ## Ekranlar
 
-1. **Restoran listesi** — Arama kutusu ile filtreleme, kartlara tıklayınca menüye geçiş.
-2. **Menü** — Ürün ekleme/çıkarma (sepet sayacı), alt barda toplam tutar (demo).
+1. **Restoran listesi** — <img width="945" height="2048" alt="WhatsApp Image 2026-06-02 at 20 50 17" src="https://github.com/user-attachments/assets/b5a1c66b-dabc-406e-99ee-f0cb5df382dc" />
+
+2. **Menü** — <img width="945" height="2048" alt="WhatsApp Image 2026-06-02 at 20 50 17 (1)" src="https://github.com/user-attachments/assets/87004052-d38f-4fb6-8e9a-595aa683ec1b" />
+
 
 ## GitHub repository
 
