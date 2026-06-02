@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Yemeksepeti Odev",
+    "slug": "yemeksepeti-odev",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FA0050"
+      }
+    }
+  }
+}
